@@ -11,7 +11,7 @@
              Margin="5"
              MaxHeight="250"
              MaxWidth="150" 
-             materialDesign:ShadowAssist.ShadowDepth="Depth5" MouseDoubleClick="UserControl_MouseDoubleClick"
+             materialDesign:ShadowAssist.ShadowDepth="Depth5"
 >
     <materialDesign:Card Background="White">
         <Grid>
@@ -124,7 +124,6 @@
             <Button 
             Background="#1d9bf0"
             Grid.Row="4"
-            Click="BtnAddToBasket_Click"
             HorizontalAlignment="Right"
                 VerticalAlignment="Center"
             Width="25"
